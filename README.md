@@ -3,29 +3,26 @@ Concept of logo
 
 ## Font
 
-        Font in use <a target="_blank" href="https://fonts.google.com/specimen/Kavivanar">Kavivanar-Regular</a> designed by
-        <a target="_blank" href="http://thariqueazeez.com/">Tharique Azeez</a>
-        and licensed under
-        <a target="_blank" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL_web">Open Font License.</a>
-          Icon Designed by
-          <a target="_blank" href="https://thenounproject.com/emilegraphics">emilegraphics</a>
+Font in use <a target="_blank" href="https://fonts.google.com/specimen/Neuton">Neuton-Bold</a> designed by
+<a target="_blank" href="https://brianskywalker.deviantart.com/">Brian Zick</a>
+and licensed under
+<a target="_blank" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL_web">Open Font License.</a>
+Icon Designed by
+<a target="_blank" href="https://thenounproject.com/andrewlynne">Andrew Lynne</a>
           
 ## Colors
 
 ### icon
   
-  + red, #FA1C01
-  + yellow, #FAE801
+  + #D6D6D6, #0880C4
 
 ### background
 
-  + white
-  + #ffffff
+  + transparent
   
 ### font
   
-  + yellow, #FAE801
-  + red,  #FA8A01
+  + #D6D6D6, #0880C4
   
 ### css 
     p {
@@ -48,3 +45,5 @@ Concept of logo
 ## 2
 ![2/cover.png](2/cover.png)
 
+## 3
+![3/cover.png](3/cover.png)
